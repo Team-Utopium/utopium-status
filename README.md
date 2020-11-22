@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.utopium.tk): <!--live status--> **🟩 All systems operational**
 
-This repository is an automated status page for [Team Utopium](https://status.utopium.tk)
+This repository is an automated status page for [Team Utopium](https://utopium.tk)
 
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/koj-co/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
