@@ -8,6 +8,8 @@ sites:
     url: https://werewolf-utopium.tk
   - name: Spyfall Utopium
     url: https://spyfall.utopium.tk
+  - name: Fake site for Godder
+    url: https://notasite.pizza
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
