@@ -4,23 +4,15 @@
     "url": "https://werewolf-utopium.tk",
     "slug": "werewolf-utopium",
     "status": "up",
-    "uptime": "100.00",
-    "time": 236
+    "uptime": "0.00%",
+    "time": 277
   },
   {
     "name": "Spyfall Utopium",
     "url": "https://spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "up",
-    "uptime": "100.00",
-    "time": 242
-  },
-  {
-    "name": "Fake site for Godder",
-    "url": "https://notasite.pizza",
-    "slug": "fake-site-for-godder",
-    "status": "down",
-    "uptime": "94.21",
-    "time": 0
+    "uptime": "0.00%",
+    "time": 265
   }
 ]
