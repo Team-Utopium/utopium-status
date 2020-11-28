@@ -5,14 +5,14 @@
     "slug": "werewolf-utopium",
     "status": "up",
     "uptime": "100.00%",
-    "time": 323
+    "time": 334
   },
   {
     "name": "Spyfall Utopium",
     "url": "https://spyfall.utopium.tk",
     "slug": "spyfall-utopium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 239
+    "time": 231
   }
 ]
