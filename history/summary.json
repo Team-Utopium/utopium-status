@@ -2,33 +2,47 @@
   {
     "name": "Werewolf Utopium",
     "url": "https://werewolf-utopium.tk",
+    "icon": "https://favicons.githubusercontent.com/werewolf-utopium.tk",
     "slug": "werewolf-utopium",
     "status": "up",
-    "uptime": "92.00%",
+    "uptime": "92.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.93%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "92.00%",
-    "time": 318,
-    "timeDay": 323,
-    "timeWeek": 297,
-    "timeMonth": 318,
-    "timeYear": 318
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "92.53%",
+    "time": 313,
+    "timeDay": 208,
+    "timeWeek": 292,
+    "timeMonth": 313,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2020-12-04": 1291,
+      "2020-12-03": 329
+    }
   },
   {
     "name": "Spyfall Utopium",
     "url": "https://spyfall.utopium.tk",
+    "icon": "https://favicons.githubusercontent.com/spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "up",
-    "uptime": "65.85%",
+    "uptime": "68.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.93%",
-    "uptimeMonth": "65.85%",
-    "uptimeYear": "65.85%",
+    "uptimeWeek": "46.21%",
+    "uptimeMonth": "68.11%",
+    "uptimeYear": "68.11%",
     "time": 235,
-    "timeDay": 325,
-    "timeWeek": 240,
+    "timeDay": 213,
+    "timeWeek": 244,
     "timeMonth": 235,
-    "timeYear": 235
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2020-12-03": 1146,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 12
+    }
   }
 ]
