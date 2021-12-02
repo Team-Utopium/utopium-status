@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2020-12-04": 1291,
       "2020-12-03": 329
@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "down",
-    "uptime": "92.84%",
+    "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.22%",
+    "uptimeYear": "93.49%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
@@ -61,8 +61,7 @@
       "2021-02-17": 1440,
       "2021-02-16": 404,
       "2021-01-06": 24,
-      "2020-12-03": 1146,
-      "2020-12-02": 1440
+      "2020-12-03": 1146
     }
   }
 ]
