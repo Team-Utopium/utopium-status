@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.77%",
     "time": 294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 282,
-    "dailyMinutesDown": {
-      "2020-12-04": 1291
-    }
+    "timeYear": 277,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spyfall Utopium",
@@ -25,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "down",
-    "uptime": "92.87%",
+    "uptime": "92.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.77%",
+    "uptimeYear": "93.97%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 497,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2021-03-10": 1003,
       "2021-03-09": 1440,
