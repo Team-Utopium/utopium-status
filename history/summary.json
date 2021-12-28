@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 259,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://favicons.githubusercontent.com/spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "down",
-    "uptime": "93.30%",
+    "uptime": "93.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 541,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2021-03-10": 1003,
       "2021-03-09": 1440,
