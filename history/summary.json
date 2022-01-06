@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/werewolf-utopium.tk",
     "slug": "werewolf-utopium",
     "status": "down",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -23,7 +23,7 @@
     "icon": "https://favicons.githubusercontent.com/spyfall.utopium.tk",
     "slug": "spyfall-utopium",
     "status": "down",
-    "uptime": "93.45%",
+    "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 554,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2021-03-10": 1003,
       "2021-03-09": 1440,
@@ -56,8 +56,7 @@
       "2021-02-19": 1440,
       "2021-02-18": 1440,
       "2021-02-17": 1440,
-      "2021-02-16": 404,
-      "2021-01-06": 24
+      "2021-02-16": 404
     }
   }
 ]
